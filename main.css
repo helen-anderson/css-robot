@@ -1,4 +1,6 @@
-
+.wrapper {
+  text-align: left;
+}
 .robot {
   position: relative;
   left: 200px;

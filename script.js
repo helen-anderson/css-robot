@@ -1,3 +1,5 @@
+$(document).ready(function(){
+
 
 // When eyes button is clicked, toggle laser class on brain
 $(".flash").click(function() {
@@ -17,6 +19,7 @@ $(".color").click(function() {
   //Display the RGBA values in an alert window
   //alert(randomRGBA);
 });
-  $(".moves").click(function(){
-    $("img").toggle();
-    });
+
+});
+
+
